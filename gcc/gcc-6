@@ -1,1 +1,1 @@
-docker pull gcc:6
+from gcc:6
